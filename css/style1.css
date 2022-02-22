@@ -1,0 +1,10 @@
+.alert-warning 
+{
+    color: #1412b5;
+    background-color: #c5aa51;
+    border-color: #13120f;
+}
+.alert
+{
+    width:50%;
+}
